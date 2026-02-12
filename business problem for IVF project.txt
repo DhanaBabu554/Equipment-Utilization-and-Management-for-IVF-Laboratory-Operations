@@ -1,0 +1,14 @@
+
+
+Client: One of the leading IVF clinics in India
+
+Business Problem: IVF labs rely on high-cost equipment such as incubators, microscopes, and ICSI workstations, yet utilization rates vary widely (40-85%), leading to 20-30% idle time, 10-15% workflow delays, and 15-25% unnecessary operating costs. At the same time, insufficient redundancy for critical procedures can cause 2-4 hour delays when equipment is unavailable, directly affecting embryo viability and clinic throughput.
+
+High Level Solution: Implement a centralized Bl-driven equipment monitoring system that consolidates usage logs. downtime records, scheduling data, and procedure dependencies to optimize utilization, forecast demand, allocate redundancy intelligently, and proactively prevent workflow delays through real-time alerts and data-backed planning.
+
+Business Objective: Maximize utilization of high-value IVF lab equipment
+Business Constraint: Minimize equipment downtime and scheduling conflicts
+
+Success criteria:
+Business Success Criteria: Increase average equipment utilization to ≥75-85% without exceeding safe workload limits.
+Economic Success Criteria: Lower operational costs linked to idle or redundant equipment by ≥10- 15%.
